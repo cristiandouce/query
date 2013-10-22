@@ -11,7 +11,7 @@
 
 ## API
 
-```
+```js
 var o = require('query');
 
 // Query single elements
