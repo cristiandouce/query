@@ -7,11 +7,9 @@
   "dependencies": {
     "cristiandouce/sizzle": "*"
   },
-  "development": {},
   "license": "MIT",
   "main": "index.js",
   "scripts": [
     "index.js"
-  ],
-  "remotes": []
+  ]
 }
