@@ -2,10 +2,10 @@
   "name": "query",
   "repo": "cristiandouce/query",
   "description": "X-Browser DOM element query supported by jquery/sizzle",
-  "version": "0.0.1", 
+  "version": "0.0.3",
   "keywords": [ "css", "selector", "jquery", "sizzle", "query" ],
   "dependencies": {
-    "cristiandouce/sizzle": "1.10.12-pre"
+    "slifszyc/sizzle": "1.10.12"
   },
   "license": "MIT",
   "main": "index.js",
