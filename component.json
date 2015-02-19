@@ -2,8 +2,14 @@
   "name": "query",
   "repo": "cristiandouce/query",
   "description": "X-Browser DOM element query supported by jquery/sizzle",
-  "version": "0.0.1",
-  "keywords": [ "css", "selector", "jquery", "sizzle", "query" ],
+  "version": "0.1.0",
+  "keywords": [
+    "css",
+    "selector",
+    "jquery",
+    "sizzle",
+    "query"
+  ],
   "dependencies": {
     "cristiandouce/sizzle": "*"
   },
