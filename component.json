@@ -12,6 +12,5 @@
   "main": "index.js",
   "scripts": [
     "index.js"
-  ],
-  "remotes": []
+  ]
 }
